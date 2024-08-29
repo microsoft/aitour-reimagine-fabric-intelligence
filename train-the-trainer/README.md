@@ -1,3 +1,7 @@
+# Session Delivery Resources
+
+The following resources are intended for a presenter to learn and deliver the session.
+
 ## How To Use
 
 Welcome,
@@ -19,7 +23,7 @@ code.
 
 ## Get Started
 
-This training repository is divided in to the following sections:
+This collection of Session Delivery Resources is divided in to the following sections:
 
 | [Slides](#slides) | [Demos](demos/README.md) | [Deployment](deployment/README.md) | 
 |-------------------|---------------------------|--------------------------------------
