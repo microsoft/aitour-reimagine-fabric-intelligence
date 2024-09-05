@@ -15,19 +15,21 @@ code.
 2.  Watch the video presentation
 3.  Ask questions of the Lead Presenter
 
+
 ## File Summary
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| PowerPoint        | - [Presentation](https://aka.ms/AAryjlu) | Slides |
+| Session PowerPoint        | - [Presentation](https://aka.ms/AAryjlu) | The presentation slides for this session |
+| Session PPT Recording     | - [Video](https://aka.ms/) |  Recorded delivery of the PowerPoint slides |
 
 ## Get Started
 
-This collection of Session Delivery Resources is divided in to the following sections:
+This training repository is divided in to the following sections:
 
-| [Slides](#slides) | [Demos](demos/README.md) | [Deployment](deployment/README.md) | 
+| [Slides](#slides) | [Timing](#timing) | [Demos](#demos) | 
 |-------------------|---------------------------|--------------------------------------
-| 28 slides - 30 minutes| 1 demos - 15 minutes | Demo setup
+| ~72 slides - 45 minutes delivery time | Timing breakdown for all presentation topics | Demo notes
 
 ## Slides
 
@@ -37,27 +39,24 @@ The [slides](presentations.md) have presenter notes in each part of the session
 
 | Time        | Description 
 --------------|-------------
-0:00 - 5:00   | Intro to the session 
-5:00 - 15:00  | Why Modern Data Warehousing
-15:00 - 20:00 | Building the Modern data warehouse
-20:00 - 35:00 | Designing a modern data warehouse solution
-35:00 - 40:00 | The evolution of cloud scale analytics
-40:00 - 45:00 | Session review
-
-## Deployment / Preparation
-
->**What's Here?** Deploying the demo environment on Azure - including the prerequisites.
-
-[Instructions and prerequisites are outlined here](deployment/README.md). 
-
+0:00 - 1:42   | Intro to the session 
+1:42 - 09:13  | RTI Problem breakdown
+9:13 - 10:26  | Real-Time Intelligence Reveal
+10:26 - 12:22 | Demo: Get started instantly with real-time data
+12:22 - 15:32 | Real-Time Intelligence Overview and Pillars
+15:32 - 31:32 | Demo: Ingest, analyze and act on real-time data
+31:32 - 36:05 | Demo: Detecting Unknown Unknowns
+36:05 - 38:38 | Sneak peek: Eventhouse as a Vector store
+38:38 - 42:00 | Customer Stories & Learning Partners
+42:00 - 44:48 | Outro: resources, & next steps
 
 ## Demos
 
-> **What's Here?** Pre-delivery preparation, stage ready videos, required files (such as JSON templates), and walk-through videos
+> All demos are provided as recordings inside the presentation deck. There is no need to setup any complex environments or worry about network access during your presentation.  Please ensure that you are aware of cues and timings in these recordings to ensure a high quality delivery!
 
-Detailed explanations of each demonstration associated with this presentation can be found in this section. There are 3 "live from stage" technical demonstrations that utilize a number of tools both in and out of Azure. [You can get a high level overview of the tools and how we will be using them here](demos/README.md).
+The main demo **Demo: Ingest, analyze and act on real-time data** is a series of 6 demos that visits each pillar of Real-Time Intelligence. In between each demo, there is a slide that introduces the next pillar and sub-demo.
 
-| Demo 	                                                                                               | Minutes | Video |
--------------------------------------------------------------------------------------------------------|---------|----------------- | 
-|  [1 - Exploring a Modern Data Warehouse](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | 15       | [Link](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4) |
+Keep in mind that demo videos have been split into smaller parts to allow for easier consumption and to allow for pausing between sections.
+
+The **Demo: Detecting Unknown Unknowns** it's also split across several.
 
