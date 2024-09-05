@@ -18,10 +18,13 @@
 For your convenience, here is a list of all the links shared as QR codes during the presentation: 
 
 - https://aka.ms/anomalyDetectionPreview
+- https://aka.ms/eventHouseVectors
+- https://EHVectorDB
+- https://VectorBasics
 - https://aka.ms/RealTimeDocs
 - https://aka.ms/realtimelearningpath 
 - https://aka.ms/realtimeskill 
-- https://aka.ms/fabriccareerhub 
+- https://aka.ms/fabriccareerhub
 - https://aka.ms/FabricRTIFeaturedPartners
 - https://aka.ms/FabCon-Europe
 
