@@ -21,7 +21,7 @@ code.
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
 | Session PowerPoint        | - [Presentation](https://aka.ms/AAryjlu) | The presentation slides for this session |
-| Session PPT Recording     | - [Video](https://aka.ms/) |  Recorded delivery of the PowerPoint slides |
+| Session PPT Recording     | - [Video](https://aka.ms/AAs5508) |  Recorded delivery of the PowerPoint slides |
 
 ## Get Started
 
