@@ -30,6 +30,12 @@ For your convenience, here is a list of all the links shared as QR codes during 
 
 ## Dive Deeper into Microsoft Fabric
 
+### 🤓 Limited-time offer! Get certified in Microsoft Fabric—for half-price
+
+Get ready to fast-track your career in data and AI by earning your Microsoft Certified: Fabric Data Engineer Associate certification (Exam DP-700). There's no faster way to climb the ladder than with industry-recognized Microsoft certifications!
+
+[I am ready for DP-700](https://aka.ms/iamready/dp700)
+
 ### 👩‍💻 Microsoft Fabric Career Hub
 
 The one-stop location to begin your learning journey for the [DP-600: Implementing Analytics Solutions Using Microsoft Fabric certification](https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-600/).
